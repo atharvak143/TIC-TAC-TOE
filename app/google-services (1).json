@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "960588276079",
+    "project_id": "chat-application-bd406",
+    "storage_bucket": "chat-application-bd406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960588276079:android:3f6dfb2ddb3e49ad35889a",
+        "android_client_info": {
+          "package_name": "com.example.easychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXb8ZYejdZGOQtCbbWg5Tn5m5eKebbuAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960588276079:android:2842e46ce83f63b435889a",
+        "android_client_info": {
+          "package_name": "com.example.tictactoeatharva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXb8ZYejdZGOQtCbbWg5Tn5m5eKebbuAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
